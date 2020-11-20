@@ -1,0 +1,15 @@
+Face Mask Detection: Using OpenCV and Haar Cascade object Detection
+
+COVID-19 is a disease that spread from human to human, which can be controlled by ensuring the proper use
+ of a facial mask. The spread of COVID-19 can be limited if people strictly maintain social distancing and use a
+ facial mask. Very sadly, people are not obeying these rules correctly, which is speeding the spread of this virus. 
+Detecting the people not obeying the rules and informing the corresponding authorities helps in reducing the 
+spread of novel coronavirus. This face mask detection technique is to find out whether someone is wearing a
+ mask or not. It is similar to detect any object from a scene. Many systems have been introduced for object
+ detection. These techniques and architectures can be incorporated in detecting the face mask. Moreover, a 
+smart city means an urban area consists of many IoT sensors and various other cameras to collect data. 
+Then this collected data can be used to perform different operations and helps to get statistics across the city. 
+This includes monitoring traffic, utilities, water supply network, and many more. 
+Recently, the growth of COVID-19 can be reduced by detecting the facial mask in a smart city network.
+
+
